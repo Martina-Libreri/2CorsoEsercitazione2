@@ -1,0 +1,13 @@
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week2\Esercitazione 2\Esercitazione 2\Esercitazione 2\bin\Debug\netcoreapp3.1\Esercitazione 2.exe
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week2\Esercitazione 2\Esercitazione 2\Esercitazione 2\bin\Debug\netcoreapp3.1\Esercitazione 2.deps.json
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week2\Esercitazione 2\Esercitazione 2\Esercitazione 2\bin\Debug\netcoreapp3.1\Esercitazione 2.runtimeconfig.json
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week2\Esercitazione 2\Esercitazione 2\Esercitazione 2\bin\Debug\netcoreapp3.1\Esercitazione 2.runtimeconfig.dev.json
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week2\Esercitazione 2\Esercitazione 2\Esercitazione 2\bin\Debug\netcoreapp3.1\Esercitazione 2.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week2\Esercitazione 2\Esercitazione 2\Esercitazione 2\bin\Debug\netcoreapp3.1\Esercitazione 2.pdb
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week2\Esercitazione 2\Esercitazione 2\Esercitazione 2\obj\Debug\netcoreapp3.1\Esercitazione 2.csprojAssemblyReference.cache
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week2\Esercitazione 2\Esercitazione 2\Esercitazione 2\obj\Debug\netcoreapp3.1\Esercitazione 2.AssemblyInfoInputs.cache
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week2\Esercitazione 2\Esercitazione 2\Esercitazione 2\obj\Debug\netcoreapp3.1\Esercitazione 2.AssemblyInfo.cs
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week2\Esercitazione 2\Esercitazione 2\Esercitazione 2\obj\Debug\netcoreapp3.1\Esercitazione 2.csproj.CoreCompileInputs.cache
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week2\Esercitazione 2\Esercitazione 2\Esercitazione 2\obj\Debug\netcoreapp3.1\Esercitazione 2.dll
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week2\Esercitazione 2\Esercitazione 2\Esercitazione 2\obj\Debug\netcoreapp3.1\Esercitazione 2.pdb
+C:\Users\martina.libreri\Desktop\Corso ICubed\2° Corso\Week2\Esercitazione 2\Esercitazione 2\Esercitazione 2\obj\Debug\netcoreapp3.1\Esercitazione 2.genruntimeconfig.cache
